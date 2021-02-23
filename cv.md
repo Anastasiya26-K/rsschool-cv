@@ -12,7 +12,7 @@ My main goal is to develop my mind and will get an interesting and well-paid job
  - CSS3
  - JavaScript 
  - Visual Studio Code
- p.s. I studied books written by authors Robson E., Freeman E.: Head First HTML, XHTML and CSS; Head First JavaScript programming: A Brain-Friendly Guide.
+ - p.s. I studied books written by authors Robson E., Freeman E.: Head First HTML, XHTML and CSS; Head First JavaScript programming: A Brain-Friendly Guide.
 ***
 ### Code examples
  ```

@@ -1,0 +1,22 @@
+body{
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: rgb(193, 225, 240);
+}
+header{
+    margin-top: 10px;
+    max-width: 1024px;
+}
+img{
+    width:550px;
+    margin: 0 auto;
+    display: block;
+    border-radius: 5%;
+}
+
+li{
+    margin: 10px;
+}
+footer{
+    text-align: center;
+}
